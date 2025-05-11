@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaLabs.iml" filepath="$PROJECT_DIR$/.idea/JavaLabs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab2/Lab2.iml" filepath="$PROJECT_DIR$/Lab2/Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab3a/Lab3a.iml" filepath="$PROJECT_DIR$/Lab3a/Lab3a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab4_1/Lab4_1.iml" filepath="$PROJECT_DIR$/Lab4_1/Lab4_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab4_2/Lab4_2.iml" filepath="$PROJECT_DIR$/Lab4_2/Lab4_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab4_3-2048/Lab4_3-2048.iml" filepath="$PROJECT_DIR$/Lab4_3-2048/Lab4_3-2048.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab5-a/Lab5-a.iml" filepath="$PROJECT_DIR$/Lab5-a/Lab5-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab6_1/Lab6_1.iml" filepath="$PROJECT_DIR$/Lab6_1/Lab6_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab6_2/Lab6_2.iml" filepath="$PROJECT_DIR$/Lab6_2/Lab6_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab7/Lab7.iml" filepath="$PROJECT_DIR$/Lab7/Lab7.iml" />
+    </modules>
+  </component>
+</project>
